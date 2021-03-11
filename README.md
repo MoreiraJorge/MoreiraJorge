@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey coders i'm Jorge 👋
+
+### My current stats:
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&show_icons=true&hide_border=true&theme=dark" />
+
+
+<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=dark&hide_border=true" />
+
+
 
 <!--
 **MoreiraJorge/MoreiraJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
