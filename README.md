@@ -1,4 +1,4 @@
-<h1>Hi guys, I'm Jorge 👋</h1>
+<h1 align="center"> Hi guys, I'm Jorge 👋</h1>
 
 <h2 style="border-bottom: none;" align="center">My stats:</h2>
 
