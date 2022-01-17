@@ -3,7 +3,7 @@
 <h3> My current stats: <h3>
 
 <div style="display: flex;
-  flex-direction: row;padding: 5px;">
+  flex-direction: column;padding: 5px;">
 <a style="margin: 5px;" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&theme=tokyonight&show_icons=true"> </img>
 </a>
