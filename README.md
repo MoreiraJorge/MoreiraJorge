@@ -1,12 +1,14 @@
-<h1> Hi guys, I'm Jorge 👋</h1>
+<center><h1> Hi guys, I'm Jorge 👋</h1></center>
 
-<h3> My current stats: <h3>
+<center><h2> My stats: </h2></center>
 
-<div style="display: flex;
-  flex-direction: column;margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&theme=tokyonight&show_icons=true"> </img>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&hide=Makefile&layout=compact&theme=tokyonight"> </img>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true"></img>
+</p>
 
 <!--
 **MoreiraJorge/MoreiraJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
