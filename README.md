@@ -1,6 +1,7 @@
-<center><h1>Hi guys, I'm Jorge 👋</h1></center>
+<h1>Hi guys, I'm Jorge 👋</h1>
 
-<center><h3>My stats:</h3></center>
+<h3 align="center">My stats:</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true&theme=tokyonight"></img>
 </p>
