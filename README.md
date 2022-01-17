@@ -4,8 +4,8 @@
 
 <div style="display: flex;
   flex-direction: column;margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&theme=tokyonight&show_icons=true"> </img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&hide=Makefile&layout=compact&theme=tokyonight"> </img>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&theme=tokyonight&show_icons=true"> </img>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&hide=Makefile&layout=compact&theme=tokyonight"> </img>
 </div>
 
 <!--
