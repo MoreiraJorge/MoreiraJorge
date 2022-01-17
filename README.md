@@ -3,9 +3,9 @@
 <h3> My current stats: <h3>
 
 <div style="display: flex;
-  flex-direction: row;margin: 5px;">
-    <img style="height: 150px; width:170px;" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&theme=tokyonight&show_icons=true"> </img>
-    <img style="height: 150px; width:170px; margin-left: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&hide=Makefile&layout=compact&theme=tokyonight"> </img>
+  flex-direction: column;margin: 5px;">
+    <img style="height: 200; width:300px;" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&theme=tokyonight&show_icons=true"> </img>
+    <img style="height: 200; width:300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&hide=Makefile&layout=compact&theme=tokyonight"> </img>
 </div>
 
 <!--
