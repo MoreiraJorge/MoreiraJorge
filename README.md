@@ -2,7 +2,7 @@
 
 <center><h2> My stats: </h2></center>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
+  <img style="width: 495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true"></img>
