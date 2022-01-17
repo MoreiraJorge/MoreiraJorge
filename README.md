@@ -1,11 +1,9 @@
 <center><h1> Hi guys, I'm Jorge 👋</h1></center>
 
 <center><h2> My stats: </h2></center>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true"></img>
 </p>
