@@ -8,6 +8,7 @@ At the moment I work with TypeScript alongside NestJS, and other frameworks such
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <br>
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="467px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight" />
 </a>
