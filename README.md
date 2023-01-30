@@ -5,12 +5,12 @@
 At the moment I work with TypeScript alongside NestJS, and other frameworks such as TypeORM, Koa and Express. As a tech explorer I am also studying Rust, starting React and a little bit of Swift while i work and attend a cyber security master's degree. I hope you don´t get lost in my repos! Cheers hehe!</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="467px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight" />
+  <img width="467px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight" />
 </a>
 
 <!--
