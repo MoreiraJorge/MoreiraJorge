@@ -15,7 +15,8 @@ At the moment I work with TypeScript alongside NestJS, and other libraries/frame
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight" />
 </a>
 <br>
-<h3>Contact me!</h3>
+
+<h2>Contact me!</h2>
 <br>
 <a href="https://www.linkedin.com/in/jorgemoreira98/">
       <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-1E4174?style=for-the-badge&logo=Linkedin&logoColor=white" />
