@@ -1,6 +1,5 @@
 <h1 style="border-bottom: none;" align="center"> Hi, I'm Jorge 👋</h1>
 
-<h2>About me</h2>
 <p>I'm a young software developer from portugal that loves backend technologies and i also like to learn cool new stuff in order to keep exploring the tech world. I'm open for new challenges in frontend and mobile development too, along with DevOps and some infrastructure.
 At the moment I work with TypeScript alongside NestJS, and other libraries/frameworks such as React.js, Solid.js. As a continuous learner, i am also studying Rust and a little bit of Swift while i work and attend a cyber security master's degree. I hope you don't get lost in my repos! Cheers!</p>
 <br>
