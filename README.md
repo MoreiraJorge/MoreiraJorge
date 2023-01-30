@@ -11,7 +11,7 @@ At the moment I work with TypeScript alongside NestJS, and other libraries/frame
 </a>
 <br>
 <a style="text-align: center;display: block;" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight&hide=Dart,Makefile,HTML,Shell,C%2B%2B,C,C%23,Kotlin,XSLT,PHP,Java,TSQL,SCSS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight&hide=Dart,Makefile,HTML,Shell,C%2B%2B,C,C%23,Kotlin,XSLT,PHP,TSQL,SCSS,CSS" />
 </a>
 <br>
 
