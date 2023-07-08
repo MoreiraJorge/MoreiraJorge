@@ -5,6 +5,7 @@ At the moment I work with TypeScript alongside NestJS, and other libraries/frame
 <br>
 
 <h2>My Stats</h2>
+<p align="center">
 <br>
 <a style="text-align: center;display: block;" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MoreiraJorge&count_private=true&show_icons=true&theme=tokyonight" />
@@ -14,7 +15,7 @@ At the moment I work with TypeScript alongside NestJS, and other libraries/frame
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJorge&layout=compact&theme=tokyonight&hide=Dart,Makefile,HTML,Shell,C%2B%2B,C,C%23,Kotlin,XSLT,PHP,TSQL,SCSS,CSS" />
 </a>
 <br>
-
+</p>
 <h2>Contact me!</h2>
 <br>
 <a href="https://www.linkedin.com/in/jorgemoreira98/">
